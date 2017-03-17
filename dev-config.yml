@@ -1,2 +1,2 @@
 welcome_message: "Hello from Dockerized Flask App"
-znother_config: "foo bar"
+another_config: "foo bar"
